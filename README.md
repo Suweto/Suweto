@@ -1,6 +1,5 @@
 <h1 align="center">Oi, Eu sou o Vinicius 👋👋</h1>
-<h3 align="center">Estou cursando Analise e desenvolvimento de sistemas.
-  Estou focando o meu aprendizado em Software e low Level</h3>
+<h3 align="center">Estou cursando Analise e desenvolvimento de sistemas. <br>Estou focando o meu aprendizado em Software e low Level</h3>
 
 <h3 align="left">Contato:</h3>
 <p>Discord: suweto</p>
